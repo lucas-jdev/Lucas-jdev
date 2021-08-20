@@ -1,6 +1,6 @@
 ## Olá, eu sou o lucas-dev-back!!
 
-- 💻 Hoje trabalho como fullstack com foco em back-end
+- 💻 Hoje trabalho como estagiário
 - 🌱 Estudando java com spring framework
 - 😉 Pronouns: ele/dele
 
