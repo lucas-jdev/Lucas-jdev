@@ -17,7 +17,7 @@
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="right"  alt="Lucas-GIF" style="object-fit:cover;" width="40%" src="https://pa1.narvii.com/7174/85a86d9f5f3cf24761dae3e6194533e4bac2ad39r1-540-304_hq.gif"/>
+  <img align="right"  alt="Lucas-GIF" style="object-fit:cover;" height="180" width="180" src="https://c.tenor.com/q1GyGHXi6UUAAAAC/izuku-midoriya-smile.gif"/>
 </div>
  
 ##
