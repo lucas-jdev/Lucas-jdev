@@ -2,7 +2,7 @@
 
 - 💻 Today I work as an intern at IFRN-JC
 - 🌱 Studying java with spring framework
-- 😉 Pronouns: ele/dele
+- 😉 Pronouns: he/his
 
 <div>
   <a href="https://github.com/Lucas-dev-back"/>
