@@ -1,7 +1,7 @@
-## Hello, i'm lucas-dev-back!!
+## Hello, i'm Lucas-jdev!!
 
-- 💻 Today I work as an intern at IFRN-JC
-- 🌱 Studying java with spring framework
+- 💻 Backend Developer Java Spring
+- 🌱 Studying Domain Driven Design
 - 😉 Pronouns: he/his
 
 <div>
