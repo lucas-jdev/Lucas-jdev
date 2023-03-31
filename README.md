@@ -2,7 +2,7 @@
 
 - 💻 Backend Developer Java Spring
 - 🌱 Studying Domain Driven Design
-- 😉 Pronouns: he/his
+- 😉 Pronouns: he/him
 
 <div>
   <a href="https://github.com/Lucas-dev-back"/>
