@@ -1,7 +1,7 @@
 ## Hello, i'm Lucas-jdev!!
 
 - 💻 Backend Developer Java Spring
-- 🌱 Studying Domain Driven Design
+- 📗 Studying reactive programming
 - 😉 Pronouns: he/him
 
 <div>
@@ -22,7 +22,8 @@
  
 ##
   
-<div> 
+<div>
+ <a href="https://dev.to/lucas_jdev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"/></a>
  <a href="https://bit.ly/3y5Lvim" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
   <a href="https://t.me/lucas_jdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/></a>
   <a href="mailto:lucas.jdev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
