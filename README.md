@@ -1,7 +1,7 @@
 ## Hello, i'm Lucas-jdev!!
 
 - 💻 Backend Developer Java Spring
-- 📗 Studying reactive programming
+- 📗 Studying Software Architecture
 - 😉 Pronouns: he/him
 
 <div>
@@ -23,7 +23,8 @@
   
 <div>
  <a href="https://dev.to/lucas_jdev"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"/></a>
- <a href="https://bit.ly/3y5Lvim" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+ <a href="https://bit.ly/3y5Lvim" target="_blank"><img src="https://img.shields.io/badge/Discord-6F1ABD?style=for-the-badge&logo=discord&logoColor=white" target="_blank"/></a>
+  <a href="https://www.linkedin.com/in/lucas-jdev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/lucas_jdev" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/></a>
   <a href="mailto:lucas.jdev1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/lucas_jdev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
