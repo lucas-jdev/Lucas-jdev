@@ -1,7 +1,7 @@
 ## Hello, i'm Lucas!! 👋🏽
 
 - 💻 Fullstack Developer (Java/Typescript)
-- 👨🏽‍💻 Working at Logique Sitemas
+- 👨🏽‍💻 Working at Logique Sistemas
 - 📗 Studying Software Architecture
 - 😉 Pronouns: he/him
 
